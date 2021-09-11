@@ -2,6 +2,7 @@
 
 该项目主要以 [UMI 3](https://umijs.org/zh/) + [Ant Design Mobile 2](https://mobile.ant.design/) 为 UI 组件库，包含完整的前端工程化实践脚手架。
 
+
 ## 基于
 [![Build With Umi](https://img.shields.io/badge/build%20with-umi-028fe4.svg?style=flat-square)](http://umijs.org/)
 [![ant design mobile v2](https://img.shields.io/npm/v/antd-mobile.svg?style=flat-square)](https://github.com/ant-design/ant-design-mobile/)
