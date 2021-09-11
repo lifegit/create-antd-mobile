@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="170px" height="120px" viewBox="0 20 160 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>编组 27</title>
+  <defs>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+      <stop stop-color="#F5F5F5" offset="0%"></stop>
+      <stop stop-color="#FFFFFF" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+      <stop stop-color="#F5F5F5" offset="0%"></stop>
+      <stop stop-color="#FFFFFF" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+      <stop stop-color="#F5F5F5" offset="0%"></stop>
+      <stop stop-color="#FFFFFF" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+      <stop stop-color="#F5F5F5" offset="0%"></stop>
+      <stop stop-color="#FFFFFF" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+      <stop stop-color="#F5F5F5" offset="0%"></stop>
+      <stop stop-color="#FFFFFF" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+      <stop stop-color="#F5F5F5" offset="0%"></stop>
+      <stop stop-color="#FFFFFF" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+      <stop stop-color="#F5F5F5" offset="0%"></stop>
+      <stop stop-color="#FFFFFF" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="48.0058613%" y1="40.752177%" x2="48.0058613%" y2="6.01456179%" id="linearGradient-8">
+      <stop stop-color="#FFFFFF" offset="0%"></stop>
+      <stop stop-color="#F0F0F0" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="36.8737151%" y1="25.2966927%" x2="52.5909629%" y2="13.7331214%" id="linearGradient-9">
+      <stop stop-color="#D9D9D9" offset="0%"></stop>
+      <stop stop-color="#EBEBEB" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="33.2502656%" y1="43.9215774%" x2="54.8086008%" y2="13.7331214%" id="linearGradient-10">
+      <stop stop-color="#E0E0E0" offset="0%"></stop>
+      <stop stop-color="#E6E6E6" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="57.6584226%" y1="13.7331214%" x2="57.6584226%" y2="91.4702404%" id="linearGradient-11">
+      <stop stop-color="#FAFAFA" offset="0%"></stop>
+      <stop stop-color="#EBEBEB" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="22.6642314%" y1="22.2659504%" x2="63.4973068%" y2="59.3405692%" id="linearGradient-12">
+      <stop stop-color="#FAFAFA" offset="0%"></stop>
+      <stop stop-color="#E0E0E0" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="75.5679081%" y1="65.6689547%" x2="14.9975884%" y2="50%" id="linearGradient-13">
+      <stop stop-color="#EDEDED" offset="0%"></stop>
+      <stop stop-color="#EBEBEB" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="57.6584226%" y1="13.7331214%" x2="57.6584226%" y2="91.4702404%" id="linearGradient-14">
+      <stop stop-color="#FAFAFA" offset="0%"></stop>
+      <stop stop-color="#EBEBEB" offset="100%"></stop>
+    </linearGradient>
+    <polygon id="path-15" points="9 0 0 14.8148148 35.1960007 24.9288813 45.1194986 8.89149515"></polygon>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-17">
+      <stop stop-color="#EEEEEE" offset="0%"></stop>
+      <stop stop-color="#D8D8D8" offset="100%"></stop>
+    </linearGradient>
+  </defs>
+  <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="画板" transform="translate(-302.000000, -746.000000)">
+      <g id="编组-27" transform="translate(302.000000, 746.000000)">
+        <g id="编组-15" opacity="0.768554688" transform="translate(17.000000, 29.000000)">
+          <rect id="矩形" fill="url(#linearGradient-1)" x="0" y="21" width="12" height="50"></rect>
+          <rect id="矩形备份-30" fill="url(#linearGradient-2)" x="15" y="33" width="12" height="44"></rect>
+          <rect id="矩形备份-34" fill="url(#linearGradient-2)" x="35" y="27" width="12" height="44"></rect>
+          <rect id="矩形备份-35" fill="url(#linearGradient-3)" x="52" y="0" width="24" height="58"></rect>
+          <rect id="矩形备份-36" fill="url(#linearGradient-4)" x="80" y="27" width="15" height="58"></rect>
+          <rect id="矩形备份-39" fill="url(#linearGradient-4)" x="112" y="28" width="15" height="58"></rect>
+          <rect id="矩形备份-37" fill="url(#linearGradient-5)" x="99" y="33" width="4" height="58"></rect>
+          <rect id="矩形备份-38" fill="url(#linearGradient-6)" x="103" y="17" width="6" height="58"></rect>
+          <path d="M31,14 C32.1045695,14 33,14.8954305 33,16 L33,58 L33,58 L29,58 L29,16 C29,14.8954305 29.8954305,14 31,14 Z" id="矩形备份-33" fill="url(#linearGradient-7)"></path>
+        </g>
+        <g id="img">
+          <ellipse id="Oval" fill="url(#linearGradient-8)" cx="79.5" cy="129" rx="74.5" ry="52"></ellipse>
+          <g id="Box" transform="translate(38.808333, 50.711538)">
+            <polygon id="side" fill="url(#linearGradient-9)" transform="translate(22.691667, 23.494777) scale(-1, 1) translate(-22.691667, -23.494777) " points="9.19166667 0.284900285 36.1916667 9.48428567 36.1916667 46.7046534 9.19166667 36.8281102"></polygon>
+            <polygon id="side" fill="url(#linearGradient-10)" points="36.1916667 0.284900285 72.1916667 9.26700227 72.1916667 45.7169991 36.1916667 36.7348971"></polygon>
+            <polygon id="side" fill="#DEEAF4" points="9.19166667 10.1614435 45.1916667 19.2042968 45.1916667 57.5688509 9.19166667 46.8579735"></polygon>
+            <polygon id="side" fill="url(#linearGradient-11)" points="9.19166667 10.1614435 45.1916667 19.2042968 45.1916667 57.5688509 9.19166667 46.8579735"></polygon>
+            <polygon id="side" fill="#D2DEE9" transform="translate(58.691667, 33.371320) scale(-1, 1) translate(-58.691667, -33.371320) " points="45.1916667 9.17378917 72.1916667 19.2147265 72.1916667 57.5688509 45.4938223 45.8603429"></polygon>
+            <polygon id="side" fill="url(#linearGradient-12)" transform="translate(58.691667, 33.371320) scale(-1, 1) translate(-58.691667, -33.371320) " points="45.1916667 9.17378917 72.1916667 19.2147265 72.1916667 57.5688509 45.4938223 45.8603429"></polygon>
+            <polygon id="lid" fill="url(#linearGradient-13)" transform="translate(63.691667, 22.507123) scale(-1, 1) translate(-63.691667, -22.507123) " points="55.1916667 9.17378917 45.1916667 23.8287115 72.9661805 35.8404558 82.1916667 19.0737506"></polygon>
+            <g id="lid" opacity="0.600000024" transform="translate(51.259320, 42.603790) rotate(1.000000) translate(-51.259320, -42.603790) translate(49.759320, 32.103790)" fill="#BFBABA">
+              <polygon id="Path-4-Copy-2" transform="translate(1.320309, 10.496336) scale(1, -1) rotate(3.000000) translate(-1.320309, -10.496336) " points="1.18896222 3.23174459 1.2370176 4.74976681 1.22253867 5.8474584 1.24742015 6.77248334 1.2959028 8.15823796 1.45165565 20.8322064 1.43130983 16.876075 1.41917876 15.6004356 1.4206483 14.8030004 1.33112795 8.15843877 1.31811344 6.53676789 1.31924574 5.8480097 1.27837474 4.75000258 1.21341549 0.160466401"></polygon>
+            </g>
+            <g id="lid" transform="translate(0.191667, 10.161443)">
+              <mask id="mask-16" fill="white">
+                <use xlink:href="#path-15"></use>
+              </mask>
+              <use id="Mask" fill="url(#linearGradient-14)" xlink:href="#path-15"></use>
+            </g>
+          </g>
+        </g>
+        <circle id="椭圆形" fill="url(#linearGradient-17)" cx="90.5" cy="45.5" r="2.5"></circle>
+        <circle id="椭圆形备份" fill="url(#linearGradient-17)" cx="98.5" cy="45.5" r="2.5"></circle>
+        <circle id="椭圆形备份-2" fill="url(#linearGradient-17)" cx="106.5" cy="45.5" r="2.5"></circle>
+      </g>
+    </g>
+  </g>
+</svg>

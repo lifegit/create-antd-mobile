@@ -1,0 +1,44 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+npm-debug.log*
+package-lock.json
+yarn.lock
+yarn-error.log
+
+# production
+/dist
+build
+
+# roadhog-api-doc ignore
+/src/utils/request-temp.js
+_roadhog-api-doc
+
+# misc
+.DS_Store
+/coverage
+.idea
+*bak
+
+# visual studio code
+.vscode
+.history
+*.log
+functions/*
+.temp/**
+
+# umi
+.umi
+.umi-production
+.umi-test
+/.env.local
+
+# screenshot
+screenshot
+.firebase
+.eslintcachenode_modules
+
+# http
+.mocks/
+/config/pont-config/services

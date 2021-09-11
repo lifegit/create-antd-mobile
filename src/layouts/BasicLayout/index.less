@@ -1,0 +1,31 @@
+@import './animation.less';
+
+:global(.transitionWrapper-enter) {
+  //opacity: 0.01;
+  //transition: opacity 5000ms ease-in;
+}
+
+:global(.transitionWrapper-enter.transitionWrapper-enter-active) {
+  animation-name: fadeInRight;
+  //opacity: 1;
+  animation-duration: 0.5s;
+  animation-fill-mode: both;
+}
+
+:global(.transitionWrapper-leave) {
+  //opacity: 1;
+  //transition: opacity 300ms ease-in;
+}
+
+:global(.transitionWrapper-leave.transitionWrapper-leave-active) {
+  animation-name: fadeOutLeft;
+  //opacity: 0;
+  animation-duration: 0.5s;
+  animation-fill-mode: both;
+}
+
+.transitionWrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
