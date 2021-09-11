@@ -11,7 +11,7 @@
 ## Docs
 仅 dev 有效
 1. `/~docs` ：文档目录，基于dumi。
-2. `/umi/plugin/openapi` ：oenApi 文档。
+2. `/umi/plugin/openapi` ：openapi 文档。
    
 ## 目录结构
 
