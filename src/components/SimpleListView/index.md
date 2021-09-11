@@ -22,7 +22,7 @@
 | renderSeparator  | 分割线渲染函数              | (item: T, index: number) => React.ReactElement | `<DefaultSeparator />`  |
 | skeletonLen      | 骨架屏数量                 | number ｜ undefined  | 10
 | skeleton         | 骨架屏展示                 | React.ReactElement ｜ undefined  | `<DefaultSkeleton />`
-| neverScroll      | 禁止滑动（开启后只能加载数据，一般用在页面里局部的listview，同时再给组件一个高度） | boolean ｜ undefined  | false
+| neverScroll      | 禁止滑动（开启后不能使用上拉下拉，一般用在页面里局部的listview，同时建议再给给组件一个高度） | boolean ｜ undefined  | false
 | style            | 组件行内样式 | React.CSSProperties ｜ undefined  | undefined
 | className        | 组件样式 | string ｜ undefined  | undefined
 
