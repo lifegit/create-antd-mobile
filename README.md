@@ -74,6 +74,6 @@ $ npm run build
 ## 推荐相关
 
 hooks：
-- [ahook](https://ahooks.js.org) 阿里 react hooks <iframe src="https://ghbtns.com/github-btn.html?user=alibaba&repo=hooks&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
-- [react-use](https://github.com/streamich/react-use) 必不可少的 react hooks 集合 <iframe src="https://ghbtns.com/github-btn.html?user=streamich&repo=react-use&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
-- [react-hookz](https://github.com/react-hookz/web) react-use 维护者弃坑后新挖了一个 <iframe src="https://ghbtns.com/github-btn.html?user=react-hookz&repo=web&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+- [ahook](https://ahooks.js.org) 阿里 react hooks [![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/hooks?style=social)](https://github.com/alibaba/hooks)
+- [react-use](https://github.com/streamich/react-use) 必不可少的 react hooks 集合 [![GitHub Repo stars](https://img.shields.io/github/stars/streamich/react-use?style=social)](https://github.com/streamich/react-use)
+- [react-hookz](https://github.com/react-hookz/web) react-use 维护者弃坑后新挖了一个 [![GitHub Repo stars](https://img.shields.io/github/stars/react-hookz/web?style=social)](https://github.com/react-hookz/web)

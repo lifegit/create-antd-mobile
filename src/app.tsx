@@ -5,6 +5,10 @@ import { UseRequestProvider } from 'umi';
 import type { RequestOptionsInit, ResponseError } from 'umi-request';
 import { Token } from '@/utils/Storage/Storage/Token';
 import RouteContext from '@/components/PageContainer/RouteContext';
+import dayjs from "dayjs";
+import 'dayjs/locale/zh-cn'
+
+dayjs.locale('zh-cn')
 
 const codeMessage = {
   200: '服务器成功返回请求的数据。',
